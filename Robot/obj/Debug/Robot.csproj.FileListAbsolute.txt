@@ -1,0 +1,12 @@
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\bin\Debug\Robot.exe.config
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\bin\Debug\Robot.exe
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\bin\Debug\Automation.BDaq4.dll
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.exe
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.pdb
+C:\Users\bulka.ondrej3\source\repos\Robot\Robot\obj\Debug\Robot.Form1.resources
